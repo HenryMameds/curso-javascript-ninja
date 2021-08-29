@@ -32,11 +32,13 @@ comida[1]
 soma === myvar
 
 // Digite o código que verifica se a variável `myvar` é menor ou igual à variável `soma`.
-?
+myvar <= soma
 
 // Crie uma função chamada `divisao` que receba como parâmetro dois números, e retorne o resultado da divisão entre eles.
-?
+function divisao(x, y){
+    return divisao = x / y;
+}
 
 // Invoque a função criada acima, passando os parâmetros 10 e 2.
-?
+divisao(10, 2)
 ```
